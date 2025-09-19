@@ -1,0 +1,1 @@
+# script-gather-resources-same-account.py
